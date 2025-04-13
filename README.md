@@ -6,3 +6,4 @@ A mock API that returns realistic Maldivian NIC (National ID Card) details for a
 
 Send a GET request:
 
+GET /api/nic?nic=A123456
