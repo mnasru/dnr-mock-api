@@ -1,7 +1,7 @@
 {
     "version": 2,
     "routes": [
-      { "src": "/api/nic", "dest": "/api/nic.js" }
+      { "src": "/api/getCitizen", "dest": "/api/nic.js" }
     ]
   }
   
